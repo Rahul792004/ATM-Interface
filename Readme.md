@@ -1,4 +1,4 @@
-# README - ATM Interface
+#ATM Interface
 
 ## Project Title
 
