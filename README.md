@@ -1,4 +1,10 @@
-## ATM Interface
+# ATM Interface
+
+# README - ATM Interface
+
+## Project Title
+
+ATM Interface
 
 ## Description
 
@@ -79,3 +85,4 @@ ATMInterface/
 ## Conclusion
 
 The ATM Interface project helps understand Core Java concepts, Object-Oriented Programming, and console-based application development through real-world banking operations.
+
